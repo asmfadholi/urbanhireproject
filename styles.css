@@ -328,7 +328,7 @@ h4 {
 }
 .changed {
   max-width: 400px;
-  min-width: 330px;
+  min-width: 340px;
   overflow: auto;
   position: fixed;
   padding: 25px;
@@ -364,7 +364,8 @@ h4 {
   width: 50px;
   cursor: pointer;
   color: white;
-  left: 180px;
+  left: 50%;
+  transform: translate(-50%,-50%);
   bottom: 20px;
   background: #33beef;
   border: none;
