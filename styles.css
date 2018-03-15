@@ -366,7 +366,7 @@ h4 {
   color: white;
   left: 50%;
   transform: translate(-50%,-50%);
-  bottom: -10px;
+  bottom: -100px;
   background: #33beef;
   border: none;
 }
